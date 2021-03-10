@@ -2,7 +2,7 @@
 
 My Name is Frank Chen
 
-- - 🔭 Currently working for Microsoft Consultant Service as Software Development Intern.
+- 🔭 Currently working for Microsoft Consultant Service as Software Development Intern.
 - 🌱 Studying for my master's degree in Information Management.
 <!--
 **frank93011/frank93011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
